@@ -1,0 +1,10 @@
+﻿  Arrays.cpp
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(547,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(551,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(553,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(571,21): warning C4244: 'return': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(615,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(674,28): warning C4101: 'e': unreferenced local variable
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\Arrays.h(805,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Arrays.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  L7.vcxproj -> C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\x64\Debug\L7.exe

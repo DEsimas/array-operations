@@ -1,0 +1,4 @@
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\x64\Debug\L7.vcxproj.AssemblyReference.cache
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\x64\Debug\L7.Arrays.resources
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\x64\Debug\L7.vcxproj.GenerateResource.cache
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L7\x64\Debug\L7.exe
